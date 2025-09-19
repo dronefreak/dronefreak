@@ -1,7 +1,7 @@
-<!-- ![Saumya Kumaar Saksena Banner](https://raw.githubusercontent.com/dronefreak/dronefreak/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
+<!-- ![Saumya Kumaar Saksena Banner](./assets/Banner.jpg) -->
 
 <div align="center">
-  <img alt="Hare Krishna!" src="./assets/hare-krishna.gif" width="100" align="center" />
+  <!-- <img alt="Hare Krishna!" src="./assets/hare-krishna.gif" width="100" align="center" /> -->
   <h2>Hare Krishna! I'm Saumya 🙏</h2>
 </div>
 
