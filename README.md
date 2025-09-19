@@ -20,10 +20,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)&nbsp;
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)&nbsp;
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)&nbsp;
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)\
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=MLflow&logoColor=black)&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)&nbsp;
 ![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)&nbsp;
@@ -61,5 +63,9 @@
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:kumaar324@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=BxQ0KDEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Gmail" height="30" />
   </a>
 </div>
