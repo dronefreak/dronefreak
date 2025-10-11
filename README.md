@@ -1,5 +1,4 @@
 <!-- ![Saumya Kumaar Saksena Banner](./assets/Banner.jpg) -->
-
 <div align="center">
   <!-- <img alt="Hare Krishna!" src="./assets/hare-krishna.gif" width="100" align="center" /> -->
   <h2>Hare Krishna! I'm Saumya 🙏</h2>
@@ -53,6 +52,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dronefreak&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dronefreak" alt="dronefreak" /> </p>
 
 ### 🤝🏻 &nbsp;Social Profiles
 
