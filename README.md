@@ -1,4 +1,4 @@
-<!-- ![Saumya Kumaar Saksena Banner](./assets/Banner.jpg) -->
+![Saumya Kumaar Saksena Banner](./assets/banner.jpg)
 <div align="center">
   <!-- <img alt="Hare Krishna!" src="./assets/hare-krishna.gif" width="100" align="center" /> -->
   <h2>Hare Krishna! I'm Saumya 🙏</h2>
@@ -8,8 +8,8 @@
 
 - 🤖 **Robotics Engineer** in Paris, building autonomous systems for self-driving shuttles.
 - 🧠 5+ years of hands-on experience in **Machine Learning**, **Computer Vision**, **Deep Learning**, and **Signal Processing**.
-- 🎓 Holds a **Master’s in Robotics** with a focus on *Deep Learning for Computer Vision*.
-- 🛰️ Formerly worked on **unmanned aerial vehicles** (UAVs) using **brain-computer interfaces**, **computer vision**, and **GPS-only navigation**.
+- 🎓 Have a **Master’s in Robotics** with a focus on *Deep Learning for Computer Vision*.
+- 🛰️ Formerly worked on **unmanned aerial vehicles** (UAVs) using **brain-computer interfaces** and **computer vision**.
 - 💡 Passionate about creating intelligent systems that connect **perception**, **autonomy**, and **real-world impact**.
 - 🌍 Always exploring the intersection of AI and robotics — one algorithm at a time.
 
