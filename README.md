@@ -1,6 +1,6 @@
 ![Saumya Kumaar Saksena Banner](./assets/banner.png)
 <div align="center">
-  <!-- <img alt="Hare Krishna!" src="./assets/hare-krishna.gif" width="100" align="center" /> -->
+  <img alt="Hare Krishna!" src="./assets/hare-krishna.gif" width="100" align="center" />
   <h2>Hare Krishna! I'm Saumya 🙏</h2>
 </div>
 
