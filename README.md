@@ -6,12 +6,9 @@
 
 ### 🚀 &nbsp;About Me
 
-- 🤖 **Robotics Engineer** in Paris, building autonomous systems for self-driving shuttles.
-- 🧠 5+ years of hands-on experience in **Machine Learning**, **Computer Vision**, **Deep Learning**, and **Signal Processing**.
-- 🎓 **Master’s in Robotics**, specialised in *Deep Learning for Computer Vision*.
-- 🛰️ Formerly worked on **unmanned aerial vehicles** (UAVs) using **brain-computer interfaces** and **computer vision**.
-- 💡 Passionate about creating intelligent systems that connect **perception**, **autonomy**, and **real-world impact**.
-- 🌍 Always exploring the intersection of AI and robotics — one algorithm at a time.
+- **Robotics R&D Engineer** in Paris working on safety-critical perception for self-driving shuttles
+- 5+ years designing and deploying computer vision and deep learning systems across **autonomous mobility**, **healthcare**, and **AR/VR**
+- Hands-on experience with **edge optimization** and **model quantization** for **low-power embedded devices**, from training to on-device validation
 
 <img alt="Coding" src="./assets/coding.gif" height="150em" align="right"/>
 
