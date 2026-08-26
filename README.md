@@ -9,62 +9,15 @@
 - 5+ years building **computer vision** and **deep learning** systems across **autonomous mobility**, **healthcare**, and **AR/VR** — currently in Paris on safety-critical perception for self-driving shuttles
 - Hands-on with **edge optimization** and **model quantization** for **low-power embedded devices**, from training to on-device validation
 
-<img alt="Coding" src="./assets/coding.gif" height="150em" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
-**Languages & Robotics**\
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)&nbsp;
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)&nbsp;
-![ROS](https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)&nbsp;
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
+| Category | Stack |
+|---|---|
+| **Languages & Robotics** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ROS&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff) |
+| **ML / AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff) ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=MLflow&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff) |
+| **DevOps & Collaboration** | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff) |
+| **Editors & Tools** | ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important) ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) |
 
-**ML / AI**\
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)&nbsp;
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=MLflow&logoColor=black)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)&nbsp;
-![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)&nbsp;
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
-
-**DevOps & Collaboration**\
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)&nbsp;
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)&nbsp;
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
-
-**Editors & Tools**\
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)&nbsp;
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)&nbsp;
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)&nbsp;
-![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
-
-
-### 📌 &nbsp;Pinned Repositories
-
-<p align="left">
-<a href="https://github.com/dronefreak/human-action-classification">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dronefreak&repo=human-action-classification&theme=algolia"/>
-</a>
-<a href="https://github.com/dronefreak/VisDrone-dataset-python-toolkit">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dronefreak&repo=VisDrone-dataset-python-toolkit&theme=algolia"/>
-</a>
-</p>
-<p align="left">
-<a href="https://github.com/dronefreak/dji-tello-collision-avoidance-pydnet">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dronefreak&repo=dji-tello-collision-avoidance-pydnet&theme=algolia"/>
-</a>
-<a href="https://github.com/dronefreak/CABiNet">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dronefreak&repo=CABiNet&theme=algolia"/>
-</a>
-</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
