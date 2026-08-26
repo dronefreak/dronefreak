@@ -1,7 +1,6 @@
 ![Saumya Kumaar Saksena Banner](./assets/banner.png)
 <div align="center">
-  <!-- <img alt="Hare Krishna!" src="./assets/hare-krishna.gif" width="100" align="center" /> -->
-  <h2>Hare Krishna! I'm Saumya 🙏</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hare+Krishna!+I%27m+Saumya+%F0%9F%99%8F;Robotics+R%26D+Engineer;Computer+Vision+%2B+Deep+Learning;Safety-critical+perception+for+self-driving+shuttles" alt="Typing SVG" />
 </div>
 
 ### 🚀 &nbsp;About Me
@@ -47,6 +46,12 @@
 <a href="https://github.com/dronefreak">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dronefreak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dronefreak&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/dronefreak">
+  <img height="180em" src="https://streak-stats.demolab.com?user=dronefreak&theme=algolia&hide_border=true"/>
 </a>
 </p>
 
