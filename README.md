@@ -1,6 +1,7 @@
 ![Saumya Kumaar Saksena Banner](./assets/banner.png)
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hare+Krishna!+I%27m+Saumya+%F0%9F%99%8F;Robotics+R%26D+Engineer;Computer+Vision+%2B+Deep+Learning;Safety-critical+perception+for+self-driving+shuttles" alt="Typing SVG" />
+  <h2>Hare Krishna! I'm Saumya 🙏</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Perception+Architect;Robotics+Engineer;Functional+Safety+Engineer;Embedded+AI+Architect" alt="Typing SVG" />
 </div>
 
 ### 🚀 &nbsp;About Me
