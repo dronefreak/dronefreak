@@ -6,9 +6,8 @@
 
 ### 🚀 &nbsp;About Me
 
-- **Robotics R&D Engineer** in Paris working on safety-critical perception for self-driving shuttles
-- 5+ years designing and deploying computer vision and deep learning systems across **autonomous mobility**, **healthcare**, and **AR/VR**
-- Hands-on experience with **edge optimization** and **model quantization** for **low-power embedded devices**, from training to on-device validation
+- 5+ years building **computer vision** and **deep learning** systems across **autonomous mobility**, **healthcare**, and **AR/VR** — currently in Paris on safety-critical perception for self-driving shuttles
+- Hands-on with **edge optimization** and **model quantization** for **low-power embedded devices**, from training to on-device validation
 
 <img alt="Coding" src="./assets/coding.gif" height="150em" align="right"/>
 
@@ -57,6 +56,14 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dronefreak" alt="dronefreak" /> </p>
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ### 🤝🏻 &nbsp;Social Profiles
 
