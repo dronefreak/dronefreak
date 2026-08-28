@@ -54,4 +54,12 @@
   <a href="https://scholar.google.com/citations?user=BxQ0KDEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white&style=for-the-badge" alt="Google Scholar" height="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://saumyasaksena.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-1E90FF?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Website" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/dronefreak" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge" alt="Hugging Face" height="30" />
+  </a>
 </div>
