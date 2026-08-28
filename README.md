@@ -21,14 +21,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/dronefreak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dronefreak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dronefreak&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dronefreak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dronefreak&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake.svg" />
