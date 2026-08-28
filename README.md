@@ -21,14 +21,18 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/dronefreak">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dronefreak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dronefreak&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dronefreak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dronefreak&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=00000000"/>
 </a>
 </p>
 
-<p align="left">
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dronefreak&bg_color=00000000&color=1E90FF&line=1E90FF&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake.svg" />
