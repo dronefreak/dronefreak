@@ -1,4 +1,3 @@
-![Saumya Kumaar Saksena Banner](./assets/banner.png)
 <div align="center">
   <h2>Hare Krishna! I'm Saumya 🙏</h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Perception+Architect;Robotics+Engineer;Functional+Safety+Engineer;Embedded+AI+Architect" alt="Typing SVG" />
