@@ -3,12 +3,6 @@
   <h1>Saumya Kumaar Saksena</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=1E90FF&center=true&vCenter=true&width=600&lines=Perception+Architect;Quantizing+models+for+the+edge;Shipping+perception+to+production;ISO+26262+%2F+SOTIF+for+autonomy" alt="Perception Architect · Quantizing models for the edge · Shipping perception to production · ISO 26262 / SOTIF for autonomy" width="90%" style="max-width:600px" />
 
-  <p>
-    <img src="https://img.shields.io/badge/%F0%9F%93%8D-Paris,_France-1E90FF?style=flat-square" alt="Paris, France" />
-    <img src="https://img.shields.io/badge/Focus-Perception_%2F_Edge_AI-1E90FF?style=flat-square" alt="Focus: Perception / Edge AI" />
-  </p>
-</div>
-
 ### 🚀 &nbsp;About Me
 
 - 5+ years building **computer vision** and **deep learning** systems across **autonomous mobility**, **healthcare**, and **AR/VR** — currently in Paris on safety-critical perception for self-driving shuttles
