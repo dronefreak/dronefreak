@@ -8,11 +8,6 @@
 - 5+ years building **computer vision** and **deep learning** systems across **autonomous mobility**, **healthcare**, and **AR/VR** — currently in Paris on safety-critical perception for self-driving shuttles
 - Hands-on with **edge optimization** and **model quantization** for **low-power embedded devices**, from training to on-device validation
 
-```text
-🔭  Safety-critical perception for autonomous shuttles
-🌱  Model quantization & on-device validation for low-power edge
-💬  Ask me about ROS, functional safety (ISO 26262 / SOTIF), CV deployment
-```
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -56,7 +51,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://saumyasaksena.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-1E90FF?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Website" height="30" />
+    <img src="https://img.shields.io/badge/Website-1E90FF?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Portfolio" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/dronefreak" target="_blank" rel="noopener noreferrer">
