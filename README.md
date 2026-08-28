@@ -29,14 +29,6 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/dronefreak">
-  <img height="180em" src="https://streak-stats.demolab.com?user=dronefreak&theme=algolia&hide_border=true"/>
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dronefreak" alt="dronefreak" /> </p>
-
-<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dronefreak/dronefreak/output/github-contribution-grid-snake.svg" />
@@ -56,6 +48,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=BxQ0KDEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Gmail" height="30" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white" alt="Google Scholar" height="30" />
   </a>
 </div>
