@@ -1,7 +1,8 @@
 <div align="center">
-  <p>Hare Krishna 🙏 I'm</p>
-  <h1>Saumya Kumaar Saksena</h1>
+  <p>Hare Krishna 🙏</p>
+  <h1>I'm Saumya Kumaar Saksena</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=1E90FF&center=true&vCenter=true&width=600&lines=Perception+Architect;Quantizing+models+for+the+edge;Shipping+perception+to+production;ISO+26262+%2F+SOTIF+for+autonomy" alt="Perception Architect · Quantizing models for the edge · Shipping perception to production · ISO 26262 / SOTIF for autonomy" width="90%" style="max-width:600px" />
+</div>
 
 ### 🚀 &nbsp;About Me
 
